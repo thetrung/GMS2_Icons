@@ -9,3 +9,5 @@ This is designed specially for Mac version of GMS2, which need to be "rounded co
 2. Right Click > GMS2 App > Get Info 
 3. Drag new icon in current folder to the first logo part of the Info panel to replace old icon.
 4. Enjoy 
+
+![Result](https://user-images.githubusercontent.com/177300/190894150-84813c8f-24ff-4480-9c93-f7a3af1a1f16.png)
